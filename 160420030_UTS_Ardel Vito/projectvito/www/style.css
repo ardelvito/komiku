@@ -1,0 +1,77 @@
+#bacakomik .thumb .imgposter {
+
+    display: block;
+    margin-left: 10%;
+    width: 50%;
+    left: 0;
+    text-align: center;
+    width: 80%;
+    border: none;
+    height: auto;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+#bacakomik  .thumb {
+    float: left;
+    overflow: hidden;
+}
+
+#bacakomik .rt {
+    position: relative;
+    display: block;
+    margin-top: 15px;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 15px;
+
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#bacakomik .infox {
+    font-size: .85em;
+    padding-top: 0;
+    overflow: hidden;
+    padding-left: 12px;
+}
+
+#bacakomik  .infox .spe {
+    overflow: hidden;
+    font-size: 19px;
+}
+
+#bacakomik .infox .spe span {
+    margin-right: 2%;
+    float: left;
+    padding-left: 10px;
+    position: relative;
+    width: 375px;
+    font-size: 13px;
+    color: #444;
+    line-height: 27px;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #333;
+    margin-bottom: 10px;
+    border-radius: 0 0 0 5px;
+    padding-bottom: 4px;
+}
+
+.eps_lst {
+    padding: 0px;
+}
+
+.bxcl {
+    padding-top: 0;
+    padding-bottom: 10px;
+    padding-right: 9px;
+    max-height: 250px;
+    overflow: auto;
+    margin-top: 18px;
+    margin-right: 12px;
+}
+
+.bxcl ul {
+    list-style-type: none;
+}
